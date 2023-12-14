@@ -13,6 +13,7 @@ public class swapp {
 		a=a-b;
 		
 		System.out.println(a + " "+ b);
+		System.out.println("s");
 		
 	}
 
